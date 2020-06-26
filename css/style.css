@@ -1,0 +1,58 @@
+.quraan-kare2{
+    background: red;
+    display: inline-block;
+    padding: 30px;
+    width: 150px;
+    margin-right: 5px;
+    text-align: center;
+    border-radius: 16px;
+    color: white;
+    text-decoration: none;
+    background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+.quraan-kare2:hover{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+
+.titles{
+text-align: center;
+font-size: inherit;
+    font-family: cursive;
+color: blue;
+    display: table-footer-group;
+    text-decoration: none;
+}
+.odd{
+/*div:nth-child(odd) {*/
+/*    background: green;*/
+/*    font-size: 36px;*/
+/*    color:white;*/
+/*}*/
+/*div:nth-child(even) {*/
+/*    background: Blue;*/
+/*    font-size: 36px;*/
+/*    color:yellow;*/
+    background-color: blue;
+}
+
+.even{
+    background-color: #00b9eb;
+}
+
+
+
+
+.aud:hover{
+
+    -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.86);
+    -moz-box-shadow: 15px 15px 20px rgba(235, 66, 83, 0.4);
+    box-shadow: 15px 15px 20px rgba(200, 153, 150, 0.41);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
